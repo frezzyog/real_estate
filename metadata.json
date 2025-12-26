@@ -1,0 +1,8 @@
+
+{
+  "name": "EstateFlow Cambodia",
+  "description": "The premier real estate platform for buying and renting properties across Cambodia, from luxury condos in Phnom Penh to villas in Siem Reap.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
