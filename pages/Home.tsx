@@ -252,21 +252,21 @@ const Home: React.FC = () => {
               <div className="relative overflow-hidden mb-6 bg-gray-100 aspect-[4/5] rounded-sm">
                 <img src="/team/founder.png" alt="Founder" className="w-full h-full object-cover grayscale group-hover:grayscale-0 transition-all duration-700 group-hover:scale-110" />
               </div>
-              <h4 className="text-xl font-bold text-black mb-1">Dara Sokha</h4>
+              <h4 className="text-xl font-bold text-black mb-1">Rotha Dalin</h4>
               <p className="text-gray-400 text-sm font-bold uppercase tracking-widest">Founder & CEO</p>
             </div>
             <div className="group cursor-pointer">
               <div className="relative overflow-hidden mb-6 bg-gray-100 aspect-[4/5] rounded-sm">
                 <img src="/team/listings.png" alt="Listing Manager" className="w-full h-full object-cover grayscale group-hover:grayscale-0 transition-all duration-700 group-hover:scale-110" />
               </div>
-              <h4 className="text-xl font-bold text-black mb-1">Malis Eng</h4>
+              <h4 className="text-xl font-bold text-black mb-1">Kong sophanith</h4>
               <p className="text-gray-400 text-sm font-bold uppercase tracking-widest">Head of Listings</p>
             </div>
             <div className="group cursor-pointer">
               <div className="relative overflow-hidden mb-6 bg-gray-100 aspect-[4/5] rounded-sm">
                 <img src="/team/relations.png" alt="Client Relations" className="w-full h-full object-cover grayscale group-hover:grayscale-0 transition-all duration-700 group-hover:scale-110" />
               </div>
-              <h4 className="text-xl font-bold text-black mb-1">Boly Sophat</h4>
+              <h4 className="text-xl font-bold text-black mb-1">Visal</h4>
               <p className="text-gray-400 text-sm font-bold uppercase tracking-widest">Client Relations</p>
             </div>
           </div>
